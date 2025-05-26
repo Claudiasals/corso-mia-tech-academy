@@ -1,4 +1,4 @@
-!feature.txt/
+!feature.txt/ 
 
 nascondere/
 
@@ -9,7 +9,7 @@ to_ignore
 
 TO_IGNORE_.txt
 
-*.txt
+
 
 vendor/
 
